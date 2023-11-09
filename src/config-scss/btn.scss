@@ -21,3 +21,9 @@
     background: var(--secondary-color);
   }
 }
+
+.btn:hover {
+  background: #efefef;
+  transition: 0.5s;
+  color: black;
+}

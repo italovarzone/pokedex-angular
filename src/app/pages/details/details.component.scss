@@ -69,8 +69,9 @@
           font-weight: 700;
           font-style: italic;
           font-size: rem-calc(32);
-          text-decoration: underline;
           color: var(--secondary-color);
+          padding-bottom: rem-calc(20);
+          text-align: center;
         }
 
         ol {
