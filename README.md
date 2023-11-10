@@ -35,7 +35,7 @@ Este é um projeto simples de Pokédex realizada a partir do curso "Angular 2 (v
 
 ## Demonstração
 
----
+Acesse o link do projeto em meu github Pages: https://italovarzone.github.io/pokedex-angular/
 
 ## Contribuições
 
