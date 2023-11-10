@@ -1,6 +1,6 @@
 # Pokédex Project
 
-Este é um projeto simples de Pokédex que permite buscar informações sobre 100 Pokémon diferentes e exibir suas estatísticas. O projeto utiliza a [PokéAPI](https://pokeapi.co/) para obter dados em tempo real sobre os Pokémon.
+Este é um projeto simples de Pokédex realizada a partir do curso "Angular 2 (v15+) Typescript do Básico ao Avançado", que permite buscar informações sobre 100 Pokémon diferentes e exibir suas estatísticas. O projeto utiliza a [PokéAPI](https://pokeapi.co/) para obter dados em tempo real sobre os Pokémon.
 
 ## Funcionalidades
 
